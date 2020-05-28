@@ -103,7 +103,7 @@ $ clj -Atest
 3 tests, 3 assertions, 0 failures.
 ```
 
-## Building a self-contained JAT, a.k.a. uberjar
+## Building a self-contained JAR, a.k.a. uberjar
 Presume, we would like to print example calculations to the console. Let's add the code to do that:
 ```clojure
 ;; src/main/clojure/com/tomekw/cdeps/core.clj
